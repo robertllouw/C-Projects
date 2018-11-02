@@ -1,0 +1,8 @@
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\bin\Release\EasyCrypt.exe.config
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\bin\Release\EasyCrypt.exe
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\bin\Release\EasyCrypt.pdb
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\bin\Release\Microsoft.Extensions.CommandLineUtils.dll
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\bin\Release\Microsoft.Extensions.CommandLineUtils.xml
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\obj\Release\EasyCrypt.csproj.CoreCompileInputs.cache
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\obj\Release\EasyCrypt.exe
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\obj\Release\EasyCrypt.pdb

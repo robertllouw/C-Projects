@@ -1,0 +1,12 @@
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\obj\Debug\EasyCrypt.csprojResolveAssemblyReference.cache
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\obj\Debug\EasyCrypt.csproj.CoreCompileInputs.cache
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\bin\Debug\EasyCrypt.exe.config
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\bin\Debug\EasyCrypt.exe
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\bin\Debug\EasyCrypt.pdb
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\obj\Debug\EasyCrypt.exe
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\obj\Debug\EasyCrypt.pdb
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\bin\Debug\Microsoft.Extensions.CommandLineUtils.dll
+C:\Dev\cSharpEasyCrypt\EasyCrypt\EasyCrypt\bin\Debug\Microsoft.Extensions.CommandLineUtils.xml
+C:\Robert\Development\EasyCrypt\EasyCrypt\bin\Debug\EasyCrypt.exe.config
+C:\Robert\Development\EasyCrypt\EasyCrypt\obj\Debug\EasyCrypt.exe
+C:\Robert\Development\EasyCrypt\EasyCrypt\obj\Debug\EasyCrypt.pdb
